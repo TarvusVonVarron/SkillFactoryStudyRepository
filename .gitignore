@@ -195,7 +195,7 @@ Icon?
 
 # Visual Studio temp something
 .vs/
-
+/.vs
 # dotnet stuff
 project.lock.json
 
