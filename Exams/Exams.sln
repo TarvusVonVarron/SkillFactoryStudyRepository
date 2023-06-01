@@ -7,13 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module6", "Module6Exam\Modu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module7Exam", "Module7Exam\Module7Exam.csproj", "{83057B55-7383-43D0-B564-350C815A9F46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module8ExamTask1", "Module8ExamTask1\Module8ExamTask1.csproj", "{4683C152-FA5E-47A6-AB2B-739F83E6F1F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module8ExamTask1", "Module8ExamTask1\Module8ExamTask1.csproj", "{4683C152-FA5E-47A6-AB2B-739F83E6F1F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module8ExamTask2", "Module8ExamTask2\Module8ExamTask2.csproj", "{B6D95478-D544-488E-A100-0FCF5AE1FB2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module8ExamTask2", "Module8ExamTask2\Module8ExamTask2.csproj", "{B6D95478-D544-488E-A100-0FCF5AE1FB2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module8ExamTask3", "Module8ExamTask3\Module8ExamTask3.csproj", "{BCB9BF45-0854-4A6F-91B1-EC03EE4DB4A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module8ExamTask3", "Module8ExamTask3\Module8ExamTask3.csproj", "{BCB9BF45-0854-4A6F-91B1-EC03EE4DB4A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module8ExamTask4", "Module8ExamTask4\Module8ExamTask4.csproj", "{908980A7-2DEF-42C4-8DF6-2BEC112C13C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module8ExamTask4", "Module8ExamTask4\Module8ExamTask4.csproj", "{908980A7-2DEF-42C4-8DF6-2BEC112C13C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module9Exam", "Module9Exam\Module9Exam.csproj", "{AE681E31-D6C0-415F-BDF7-0C4A89D13558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10Exam", "Module10Exam\Module10Exam.csproj", "{56296BD8-E640-4511-A38F-2229E9E2303D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{908980A7-2DEF-42C4-8DF6-2BEC112C13C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908980A7-2DEF-42C4-8DF6-2BEC112C13C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908980A7-2DEF-42C4-8DF6-2BEC112C13C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE681E31-D6C0-415F-BDF7-0C4A89D13558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE681E31-D6C0-415F-BDF7-0C4A89D13558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE681E31-D6C0-415F-BDF7-0C4A89D13558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE681E31-D6C0-415F-BDF7-0C4A89D13558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56296BD8-E640-4511-A38F-2229E9E2303D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56296BD8-E640-4511-A38F-2229E9E2303D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56296BD8-E640-4511-A38F-2229E9E2303D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56296BD8-E640-4511-A38F-2229E9E2303D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
